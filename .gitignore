@@ -121,3 +121,6 @@ venv.bak/
 
 # editor config
 .vscode
+
+# agent state
+AGENTS.md
